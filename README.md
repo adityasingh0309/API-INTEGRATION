@@ -88,3 +88,6 @@ An important aspect of the project is user-friendly error handling. If there is 
 This News App project demonstrates essential frontend development skills such as working with APIs, handling asynchronous JavaScript operations, and dynamically updating the DOM. The app provides a foundation for more advanced features like search filters, pagination, sorting by category, or integrating multiple APIs.
 
 It also reflects the real-world requirement for web applications to deliver live, accurate, and visually appealing content efficiently. Through this project, key concepts like asynchronous programming, error handling, and user-centric design have been successfully implemented.
+
+OUTPUT-
+<img width="1919" height="1079" alt="Image" src="https://github.com/user-attachments/assets/d17d837d-0110-45b6-977b-cadda06e8f61" />
